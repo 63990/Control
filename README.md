@@ -1,3 +1,3 @@
 # Control
-/* BMP180 reader (python)
-*/
+# BMP180 (python)
+#
